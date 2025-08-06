@@ -1,4 +1,5 @@
-# Jogo-Cartas
+# Jogo de Cartas
+---
 ![image](https://github.com/user-attachments/assets/663b6be4-c75c-4e4b-b811-92aeea1f2093)
 ![image](https://github.com/user-attachments/assets/ebb8dcbc-8330-40c9-a593-fbae048a34bf)
 ![image](https://github.com/user-attachments/assets/de52469b-b039-4db5-be35-12a0c40408f8)
